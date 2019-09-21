@@ -11,4 +11,4 @@
 
 
 
-<p align = "center"><imd scr="img.jpg" alt="soprry" height="400"/><p/>
+<p align = "center"><img src="img.jpg" alt="sorry" height="400"/><p/>
